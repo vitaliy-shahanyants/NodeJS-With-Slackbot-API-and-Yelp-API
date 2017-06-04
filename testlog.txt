@@ -1,0 +1,96 @@
+vitaliy.sh [2:50 AM]
+Nearby 135 Fennel Avenue West, Hamilton, Ontario
+
+Bot [2:50AM]
+(1)(Name): The Ship, (Address): 23 Augusta StreetHamilton ON,CA L8N 1P6 
+(2)(Name): Earth To Table : Bread Bar, (Address): 258 Locke Street SHamilton ON,CA L8P 4B9 
+(3)(Name): Rapscallion Rogue Eatery, (Address): 61 Young StreetHamilton ON,CA L8N 1V1 
+(4)(Name): Pokeh, (Address): 35 York Boulevard Hamilton Farmers' Market - Lower Level Hamilton ON,CA L8R 3K1 
+(5)(Name): Pho Binh Minh, (Address): 740 Upper James StreetHamilton ON,CA L9C 3A2
+
+vitaliy.sh [2:52 AM]
+Closeby 79.8861W 43.2383N
+
+Bot [2:53 AM]
+(1)(Name): The Ship, (Address): 23 Augusta StreetHamilton ON,CA L8N 1P6 
+(2)(Name): Rapscallion Rogue Eatery, (Address): 61 Young StreetHamilton ON,CA L8N 1V1 
+(3)(Name): Earth To Table : Bread Bar, (Address): 258 Locke Street SHamilton ON,CA L8P 4B9 
+(4)(Name): 541 Eatery & Exchange, (Address): 541 Barton Street EHamilton ON,CA L8L 2Z2 
+(5)(Name): Pokeh, (Address): 35 York Boulevard Hamilton Farmers' Market - Lower Level Hamilton ON,CA L8R 3K1
+
+vitaliy.sh [2:54 AM]
+Top 10 135 Fennel Avenue West, Hamilton, Ontari
+
+Bot [2:54 AM]
+(1)(Name): Quatrefoil Restaurant, (Address): 16 Sydenham StreetHamilton ON,CA L9H 2T5 
+(2)(Name): Cannon Coffee, (Address): 179 Ottawa Street NHamilton ON,CA L8H 3Z4 
+(3)(Name): Rapscallion Rogue Eatery, (Address): 61 Young StreetHamilton ON,CA L8N 1V1 
+(4)(Name): 541 Eatery & Exchange, (Address): 541 Barton Street EHamilton ON,CA L8L 2Z2 
+(5)(Name): Earth To Table : Bread Bar, (Address): 258 Locke Street SHamilton ON,CA L8P 4B9 
+(6)(Name): The Ship, (Address): 23 Augusta StreetHamilton ON,CA L8N 1P6 
+(7)(Name): Spencer's at the Waterfront, (Address): 1340 Lakeshore RdBurlington ON,CA L7S 1B1 
+(8)(Name): Pokeh, (Address): 35 York Boulevard Hamilton Farmers' Market - Lower Level Hamilton ON,CA L8R 3K1 
+(9)(Name): Pho Binh Minh, (Address): 740 Upper James StreetHamilton ON,CA L9C 3A2 
+(10)(Name): August 8, (Address): 1 Wilson Street Suite 12 Hamilton ON,CA L8R
+
+vitaliy.sh [2:55 AM]
+Closest 7 135 Fennel Avenue West, Hamilton, Ontario
+
+Bot [2:55 AM]
+(1)(Name): The Ship, (Address): 23 Augusta StreetHamilton ON,CA L8N 1P6 
+(2)(Name): Earth To Table : Bread Bar, (Address): 258 Locke Street SHamilton ON,CA L8P 4B9 
+(3)(Name): Rapscallion Rogue Eatery, (Address): 61 Young StreetHamilton ON,CA L8N 1V1 
+(4)(Name): Pokeh, (Address): 35 York Boulevard Hamilton Farmers' Market - Lower Level Hamilton ON,CA L8R 3K1 
+(5)(Name): Pho Binh Minh, (Address): 740 Upper James StreetHamilton ON,CA L9C 3A2 
+(6)(Name): 541 Eatery & Exchange, (Address): 541 Barton Street EHamilton ON,CA L8L 2Z2 
+(7)(Name): Charred Chicken, (Address): 244 James Street NHamilton ON,CA L8R 2L2
+
+vitaliy.sh [2:56 AM]
+Closest 7 135 Fennel Avenue West, Hamilton, Ontario
+
+Bot [2:55 AM]
+(1)(Name): Pokeh, (Address): 35 York Boulevard Hamilton Farmers' Market - Lower Level Hamilton ON,CA L8R 3K1 (Rating): 4.5
+(2)(Name): Sushi 'O' On Fennell, (Address): 669 Fennell Avenue E null Hamilton ON,CA L8V 1V3 (Rating): 4.5
+(3)(Name): Joya Sushi, (Address): 1630 Main Street WHamilton ON,CA L8S 1G2 (Rating): 4
+(4)(Name): Sushi Masayuki, (Address): 2180 Itabashi WayBurlington ON,CA L7M 5A5 (Rating): 4.5
+(5)(Name): Spring Sushi, (Address): 1508 Upper James StHamilton ON,CA L9B 1K3 (Rating): 4
+(6)(Name): Tatemono, (Address): 135 King Street EHamilton ON,CA L8N 1B2 (Rating): 3.5
+(7)(Name): Hotaru Sushi, (Address): 1686 Main Street W Unit 6,7,8 Hamilton ON,CA L8S 0A2 (Rating): 4
+(8)(Name): Crisp Here, (Address): 710 Cumberland AvenueBurlington ON,CA L7N 3M9 (Rating): 4.5
+(9)(Name): August 8, (Address): 835 Paramount Drive Suite 104 Stoney Creek ON,CA L8J 0B4 (Rating): 3.5
+(10)(Name): Ichiban Sushi House, (Address): 3315 Fairview Street Unit 4 Burlington ON,CA L7N 3N9 (Rating): 4.5
+(11)(Name): Matsuri Restaurant, (Address): 36 King Street EDundas ON,CA L9H 2S1 (Rating): 3.5
+(12)(Name): August 8, (Address): 834 Brant StreetBurlington ON,CA L7R 2J5 (Rating): 3.5
+(13)(Name): Noodle Bar, (Address): 1579 Main Street WHamilton ON,CA L8S 1E6 (Rating): 3
+(14)(Name): Sakai Japanese & Korean Cuisine, (Address): 4155 Fairview StreetBurlington ON,CA L7L 2A4 (Rating): 3.5
+(15)(Name): Bentobox, (Address): 2405 Fairview St Unit 1 Burlington ON,CA L7R 2E3 (Rating): 3.5
+(16)(Name): Atami Sushi, (Address): 2200 Rymal Rd EHamilton ON,CA L0R 1P0 (Rating): 3.5
+(17)(Name): Kudo Sushi, (Address): 738 Burloak Drive Suite 1 Burlington ON,CA L7L 6E6 (Rating): 3.5
+(18)(Name): Chihiro Sushi, (Address): 1441 Upper James StreetHamilton ON,CA L9B 1K2 (Rating): 4
+(19)(Name): Adami Sushi, (Address): 1505 Guelph LineBurlington ON,CA L7P 3B6 (Rating): 3.5
+(20)(Name): Sushi Asano, (Address): 2020 Appleby LineBurlington ON,CA L7L 6M6 (Rating): 3
+
+vitaliy.sh [2:57 AM]
+Reviews Spring Sushi 135 Fennel Avenue West, Hamilton, Ontario
+
+Bot [2:57 AM]
+(1). (Name): Jonathan L.
+(Review Text): Came to spring sushi for the first time today. I gotta say, for an out town diner in Hamilton, this has got to be the best Japanese restaurant here in terms...
+(Rating): 5
+(Link): https://www.yelp.com/biz/spring-sushi-hamilton?hrid=XrhZXy_GuIPrUk2JID7d3w&adjust_creative=LEumLx9_tzMDmetEm8QGGQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=LEumLx9_tzMDmetEm8QGGQ
+(2). (Name): Anthony S.
+(Review Text): Quick service, good sushi with an updated atmosphere.
+
+Tip: the spicy mayo is slightly sweet and a bit different than most - would recommend!
+(Rating): 3
+(Link): https://www.yelp.com/biz/spring-sushi-hamilton?hrid=jcfxfe009p0BREBxlTh4hA&adjust_creative=LEumLx9_tzMDmetEm8QGGQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=LEumLx9_tzMDmetEm8QGGQ
+(3). (Name): Candice D.
+(Review Text): We were pretty impressed over the quality of sushi we ate. Lots of options and the iPad makes ordering much easier and efficient. Only downside was some...
+(Rating): 4
+(Link): https://www.yelp.com/biz/spring-sushi-hamilton?hrid=63wmRtEQoVXTi0ZUskgrIw&adjust_creative=LEumLx9_tzMDmetEm8QGGQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=LEumLx9_tzMDmetEm8QGGQ
+
+vitaliy.sh [2:59 AM]
+SearchByPhone 19055618891
+
+Bot [2:59 AM]
+(1)(Name): Kelsey's Original Roadhouse, (Address): 821 Paramount DrStoney Creek ON,CA L8J 2L6
